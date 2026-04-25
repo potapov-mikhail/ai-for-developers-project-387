@@ -1,0 +1,17 @@
+# MacOS
+.DS_Store
+
+# Default TypeSpec output
+tsp-output/
+dist/
+
+# Dependency directories
+node_modules/
+.idea
+
+# Playwright
+test-results/
+playwright-report/
+**/test-booking.db
+.env
+.claude/settings.local.json 

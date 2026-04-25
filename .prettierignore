@@ -1,0 +1,6 @@
+dist
+node_modules
+packages/backend/drizzle
+packages/spec/tsp-output
+.playwright-mcp
+opencode.json
